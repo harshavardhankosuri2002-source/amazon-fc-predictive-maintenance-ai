@@ -2,6 +2,13 @@
 
 > **"Predict the failure. Prevent the downtime."**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Production-0284c7?style=for-the-badge&logo=vercel)](https://predictive-maintenance-ai-six.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-1e293b?style=for-the-badge&logo=github)](https://github.com/harshavardhankosuri2002-source/amazon-fc-predictive-maintenance-ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+### 🌐 Live Application: [https://predictive-maintenance-ai-six.vercel.app](https://predictive-maintenance-ai-six.vercel.app)
+### 📦 GitHub Repository: [https://github.com/harshavardhankosuri2002-source/amazon-fc-predictive-maintenance-ai](https://github.com/harshavardhankosuri2002-source/amazon-fc-predictive-maintenance-ai)
+
 A production-grade, real-time AI-powered machine health intelligence and predictive maintenance platform engineered for high-throughput automated logistics environments (Amazon Fulfillment Center BLR-04 Hyper-Hub).
 
 ---
